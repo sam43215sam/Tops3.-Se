@@ -1,0 +1,20 @@
+ What is OOP? List OOP concepts
+
+ANS- Object-oriented programming (OOP) is a computer programming model that organizes
+ software design around data, or objects, rather than functions and logic.
+ An object can be defined as a data field that has unique attributes and behavior.
+
+ What is the difference between OOP and POP?
+
+ANS- The main difference between OOP and POP is that OOP divides the program into multiple 
+objects to solve the problem while POP divides the program into multiple procedures or functions
+ to solve the problem.
+
+~In OOP, data is treated as a critical element in the program and is encapsulated within objects.
+ The objects are instances of classes that have attributes and methods. The attributes are variables
+ that store data while methods are functions that operate on that data.
+
+~In POP, data is not encapsulated within objects but is passed between functions as parameters.
+ Functions are used to manipulate data and perform operations on it.
+ 
+ 
